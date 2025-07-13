@@ -47,3 +47,11 @@ Whereas with a **cloud provider**, if you're utilizing them, it's someone else w
 
 
 <img width="907" height="516" alt="image" src="https://github.com/user-attachments/assets/543fedc2-337a-4799-bcea-d0d092830fbd" />
+
+
+## How servers have evolved
+
+<img width="896" height="461" alt="image" src="https://github.com/user-attachments/assets/b9e85b87-ab96-4904-be4f-5b89ca292368" />
+
+
+## Common Cloud Services
