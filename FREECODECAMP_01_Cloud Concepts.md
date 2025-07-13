@@ -55,3 +55,53 @@ Whereas with a **cloud provider**, if you're utilizing them, it's someone else w
 
 
 ## Common Cloud Services
+
+
+<img width="942" height="486" alt="image" src="https://github.com/user-attachments/assets/af3cf599-6969-4f70-b99b-54d9d735f6e8" />
+
+## What is Microsoft?
+
+<img width="843" height="504" alt="image" src="https://github.com/user-attachments/assets/87483c58-3c7f-4d36-ab94-4e0d91a48bf9" />
+
+
+## What is Azure?
+
+<img width="649" height="508" alt="image" src="https://github.com/user-attachments/assets/f384f307-00a3-4054-8473-2a6e3737786a" />
+
+
+
+## Benefits of Cloud Computing
+
+<img width="898" height="511" alt="image" src="https://github.com/user-attachments/assets/1fabbd69-dc92-4dcc-8e59-e059ddf78192" />
+
+
+## Types of Cloud Computing
+
+<img width="458" height="256" alt="image" src="https://github.com/user-attachments/assets/5e32f5de-efa9-4d47-a414-6878b48b51a6" />
+
+
+## Types of Cloud Computing Responsibilities
+
+
+<img width="913" height="504" alt="image" src="https://github.com/user-attachments/assets/cc4b796a-372e-42f0-8303-50c85ad38f39" />
+
+
+## Azure Deployment Models
+
+
+<img width="891" height="517" alt="image" src="https://github.com/user-attachments/assets/ef784a59-9c2d-4b77-bce4-10269ecf8d87" />
+
+
+<img width="916" height="504" alt="image" src="https://github.com/user-attachments/assets/d4163157-7d87-4f8a-b63d-637a1a19d4e8" />
+
+<img width="914" height="382" alt="image" src="https://github.com/user-attachments/assets/34dca8f8-89fb-468d-9c0c-71e004cbd811" />
+
+
+
+## Total Cost of Ownership (TCO)
+
+
+<img width="829" height="506" alt="image" src="https://github.com/user-attachments/assets/01d309fb-389b-4f1e-aab6-06846c596368" />
+
+
+<img width="916" height="502" alt="image" src="https://github.com/user-attachments/assets/35960322-b9cc-4d4a-8694-20fd74a7f033" />
