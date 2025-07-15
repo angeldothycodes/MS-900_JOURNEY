@@ -21,4 +21,10 @@
 
 ## Highly Fault Tolerant
 
+<img width="881" height="506" alt="image" src="https://github.com/user-attachments/assets/7bf3be3c-7333-45ed-af7c-9b3aae67c7b9" />
 
+
+
+## High Durability
+
+<img width="766" height="447" alt="image" src="https://github.com/user-attachments/assets/0a419f69-5781-466f-8565-a31915f55b0e" />
