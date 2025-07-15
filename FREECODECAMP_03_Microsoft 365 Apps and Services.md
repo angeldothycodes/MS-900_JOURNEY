@@ -47,3 +47,50 @@
 
 <img width="792" height="487" alt="image" src="https://github.com/user-attachments/assets/cfa81ed2-9579-4f50-ae52-8ca42e4dd1d3" />
 
+
+# Microsoft Bookings
+
+
+<img width="860" height="493" alt="image" src="https://github.com/user-attachments/assets/9ac3f6c4-cd0a-4b66-b159-f084f5344099" />
+
+
+
+# Microsoft To Do
+
+
+<img width="877" height="502" alt="image" src="https://github.com/user-attachments/assets/905e27aa-61a2-4af3-bd6e-336da59cf8b1" />
+
+
+<img width="893" height="496" alt="image" src="https://github.com/user-attachments/assets/706f178c-6c2c-4154-9977-37f2c979f3a0" />
+
+
+<img width="821" height="431" alt="image" src="https://github.com/user-attachments/assets/c4590cd1-e0b7-4ccd-805f-1afea212bc35" />
+
+
+
+# Microsoft Exchange Online
+
+What is the difference between Microsoft Exchange Online and Outlook? **Exchange** is a mail server which means it's a dedicated network resoure management program whereas **Outlook** is an email client which means it's a software program installed on your desktop that is designed to send and receive emails.
+
+<img width="877" height="508" alt="image" src="https://github.com/user-attachments/assets/161699fe-7a06-4be4-95e1-808fc4fb2af5" />
+
+
+<img width="841" height="440" alt="image" src="https://github.com/user-attachments/assets/4908fb49-0747-4b95-a916-4f573726b57a" />
+
+
+
+# Microsoft Forms
+
+<img width="855" height="513" alt="image" src="https://github.com/user-attachments/assets/7f658e6b-1b91-4adb-ae17-f80f62741049" />
+
+
+<img width="804" height="510" alt="image" src="https://github.com/user-attachments/assets/d743fc6c-7108-4671-8876-a132a3c74fa2" />
+
+
+# Microsoft Lists
+
+
+<img width="880" height="503" alt="image" src="https://github.com/user-attachments/assets/9384813c-bec3-4f4e-8193-92bb5d09ebee" />
+
+
+<img width="823" height="509" alt="image" src="https://github.com/user-attachments/assets/c0de8754-df46-4cee-aec8-7fbded7720a3" />
