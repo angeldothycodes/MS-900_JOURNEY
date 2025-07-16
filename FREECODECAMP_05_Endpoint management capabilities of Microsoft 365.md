@@ -56,3 +56,10 @@
 
 
 # Deployment for Microsoft 365 apps
+
+<img width="862" height="494" alt="image" src="https://github.com/user-attachments/assets/61703ffe-fc2e-4eed-9cd2-673287f5422c" />
+
+
+## Microsoft 365 Apps Update Channel Types
+
+<img width="924" height="516" alt="image" src="https://github.com/user-attachments/assets/14cc9656-298d-4507-8113-6e619339bd8d" />
