@@ -34,3 +34,25 @@
 <img width="916" height="520" alt="image" src="https://github.com/user-attachments/assets/2f1feb79-0536-4da9-85eb-b75be264d99d" />
 
 
+
+# Defender for Identity
+
+<img width="843" height="518" alt="image" src="https://github.com/user-attachments/assets/b785db44-3cfe-45ea-bf8b-f26b005e5856" />
+
+
+
+<img width="896" height="515" alt="image" src="https://github.com/user-attachments/assets/4ae5cc33-79a9-45fb-9882-105f9954347f" />
+
+
+
+<img width="849" height="509" alt="image" src="https://github.com/user-attachments/assets/f8f57299-caa1-4eca-846c-0c99ba2d561d" />
+
+
+
+# Microsoft Defender Portal
+
+<img width="851" height="493" alt="image" src="https://github.com/user-attachments/assets/3c15f347-19fa-4405-87be-39e04bde0901" />
+
+
+
+<img width="911" height="515" alt="image" src="https://github.com/user-attachments/assets/fa385beb-7cbc-437d-86b5-89e66a169a6a" />
