@@ -135,3 +135,19 @@
 # Microsoft Sentinel - Investigation
 
 <img width="864" height="502" alt="image" src="https://github.com/user-attachments/assets/b61e4d78-d226-47ee-ac17-350a08c405cd" />
+
+
+# Microsoft Sentinel - Hunting
+
+<img width="916" height="502" alt="image" src="https://github.com/user-attachments/assets/cff1017b-c8e4-45a1-9ee8-0979a81c07c7" />
+
+
+# Microsoft Sentinel - Pricing
+
+<img width="767" height="417" alt="image" src="https://github.com/user-attachments/assets/95072a59-3c82-4cdf-a2b0-cbef10a88235" />
+
+
+
+# Microsoft Security Reports
+
+<img width="881" height="503" alt="image" src="https://github.com/user-attachments/assets/9ff47c03-30c9-4382-8304-13f8ba62d158" />
