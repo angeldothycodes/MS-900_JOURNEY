@@ -174,3 +174,9 @@
 <img width="882" height="488" alt="image" src="https://github.com/user-attachments/assets/8670b727-82c1-4ad6-9daf-a760bca99602" />
 
 
+
+<img width="826" height="438" alt="image" src="https://github.com/user-attachments/assets/7ecc53ab-d83a-4f9c-bde2-333c103c7c46" />
+
+
+
+# Compliance Score
