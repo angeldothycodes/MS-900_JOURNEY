@@ -104,3 +104,73 @@
 
 
 # Sensitivity Labels
+
+
+<img width="830" height="495" alt="image" src="https://github.com/user-attachments/assets/1e808c91-7cea-496e-a239-297b6955a4d5" />
+
+
+
+<img width="835" height="490" alt="image" src="https://github.com/user-attachments/assets/1a6c4742-e507-4841-82af-d78fae4da309" />
+
+
+
+<img width="756" height="450" alt="image" src="https://github.com/user-attachments/assets/743f8ef4-769a-49df-bc87-8cb91287bdbc" />
+
+
+<img width="745" height="402" alt="image" src="https://github.com/user-attachments/assets/ee11aa69-dd33-486f-9235-4b9b18943c7b" />
+
+
+
+<img width="845" height="456" alt="image" src="https://github.com/user-attachments/assets/21813bfb-d589-4e0c-b610-877eb342ad02" />
+
+
+
+
+# Retention Policies and Labels
+
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/f763b108-0cdf-4e45-851b-5943f1be400f" />
+
+<img width="756" height="479" alt="image" src="https://github.com/user-attachments/assets/9db7ee2e-4796-429a-8842-720b14d94962" />
+
+
+
+# Records Management
+
+<img width="884" height="485" alt="image" src="https://github.com/user-attachments/assets/58a111a8-23ec-40a8-a056-7bac4f0c4876" />
+
+
+
+# Data Loss Prevention (DLP)
+
+<img width="802" height="474" alt="image" src="https://github.com/user-attachments/assets/744ceb89-c3f7-4a13-9f23-7b94949d37bb" />
+
+
+<img width="793" height="491" alt="image" src="https://github.com/user-attachments/assets/b77d87d3-adf4-49b4-9884-aa64ab034752" />
+
+
+<img width="753" height="459" alt="image" src="https://github.com/user-attachments/assets/1dcb95f7-96c9-4670-a102-a1088f740a7e" />
+
+
+
+# Compliance Portal
+
+<img width="858" height="511" alt="image" src="https://github.com/user-attachments/assets/6b00b8ec-d531-4219-964e-7ac8921b7cc6" />
+
+
+<img width="870" height="506" alt="image" src="https://github.com/user-attachments/assets/3ce2a680-57aa-4b22-a973-df7d1f41b2c6" />
+
+
+
+# Compliance Manager
+
+<img width="882" height="482" alt="image" src="https://github.com/user-attachments/assets/6f8a0ce5-7275-4381-93ca-49909f72be29" />
+
+
+
+<img width="840" height="487" alt="image" src="https://github.com/user-attachments/assets/8c21b8e2-b67b-4d23-979a-4c1f9593e8c0" />
+
+
+
+<img width="882" height="488" alt="image" src="https://github.com/user-attachments/assets/8670b727-82c1-4ad6-9daf-a760bca99602" />
+
+
