@@ -180,3 +180,71 @@
 
 
 # Compliance Score
+
+
+<img width="849" height="481" alt="image" src="https://github.com/user-attachments/assets/057cfe77-5fc4-4a42-9327-496e6ae52e05" />
+
+
+
+<img width="881" height="487" alt="image" src="https://github.com/user-attachments/assets/baa54882-8231-4a10-bba3-b985b1e97c49" />
+
+
+
+<img width="759" height="416" alt="image" src="https://github.com/user-attachments/assets/f8bd7a86-53b4-4ca7-877f-6dcf18fe7a86" />
+
+
+
+# Insider Risk Management
+
+<img width="852" height="485" alt="image" src="https://github.com/user-attachments/assets/1749110d-8558-47ac-8590-e615a0fdfd1d" />
+
+
+<img width="860" height="503" alt="image" src="https://github.com/user-attachments/assets/e37dad38-6bd8-42bf-89b2-b06b1b2b48a1" />
+
+
+
+# eDiscovery
+
+<img width="856" height="475" alt="image" src="https://github.com/user-attachments/assets/d4900fe1-2d93-4dac-b3f3-2134b919a63b" />
+
+<img width="839" height="486" alt="image" src="https://github.com/user-attachments/assets/7619b487-739b-494d-b9dc-06b5848f1f44" />
+
+
+
+<img width="863" height="500" alt="image" src="https://github.com/user-attachments/assets/6a20c1e5-7859-437b-9b30-0caef3253623" />
+
+
+<img width="810" height="449" alt="image" src="https://github.com/user-attachments/assets/688b79c7-077b-416b-a86f-c8e2462244b9" />
+
+
+
+<img width="856" height="494" alt="image" src="https://github.com/user-attachments/assets/b46b2f1f-71b2-4a9f-998d-8b7cd57c0a86" />
+
+
+
+
+# Microsoft Purview Auditing Solutions
+
+<img width="877" height="487" alt="image" src="https://github.com/user-attachments/assets/ccd8cce3-9d2d-4f1c-9133-8b1e2aee6c37" />
+
+
+
+
+# Microsoft Priva
+
+
+
+<img width="812" height="476" alt="image" src="https://github.com/user-attachments/assets/d984e734-288d-4dfe-9e16-c0c682244c49" />
+
+
+<img width="869" height="488" alt="image" src="https://github.com/user-attachments/assets/61f0b60b-273e-4fed-9849-671c1ee54506" />
+
+
+
+<img width="866" height="485" alt="image" src="https://github.com/user-attachments/assets/6b4ab3c6-fc62-47b7-a5b4-e5a95a0c9b59" />
+
+
+# Microsoft's Privacy Principles
+
+<img width="878" height="494" alt="image" src="https://github.com/user-attachments/assets/d67712b3-31a3-4033-affd-99d7d718aaad" />
+
